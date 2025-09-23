@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ]
+  ],
+  "legacy_uid": "6c32118f-f23c-ed37-c048-2aace7edcb90",
+  "instructors": {
+    "content": [
+      "5ab65d5b-c937-6357-af29-c3839f35a9a8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9a522ab0-6d15-947e-3410-15dbc8361752",
+    "website": "11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004"
+  },
+  "course_title": "Urban Design Skills: Observing, Interpreting, and Representing the City",
+  "course_description": "The course is designed to be an introduction to methods of analyzing, evaluating, and recording the urban environment first hand. Its aim is to supplement existing courses that cover theory and history of city design and planning and to better prepare students without prior design background for the studio sequence.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.240J",
+  "primary_course_number": "11.328J",
+  "course_image_thumbnail": {
+    "content": "853d3f65-d467-f314-8650-c8c43494a2f2",
+    "website": "11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Design Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "91f73108-2610-49e3-8c99-6b37f64c4607",
+  "site_short_id": "11.328j-fall-2004",
+  "site_url_path": "courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004",
+  "title": "Course Metadata"
+}
