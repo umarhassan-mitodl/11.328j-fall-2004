@@ -12,25 +12,25 @@ uid: 797be95d-5c75-92eb-695a-7010808622a5
 
 ### Federal
 
-[FEMA](http://www.fema.gov/)
+{{% resource_link "f209ab55-2d76-41c8-a2bc-752e34300417" "FEMA" %}}
 
-[National Wetlands Inventory](http://www.fws.gov/wetlands/)
+{{% resource_link "4e6ba22a-d1e3-4e82-8d40-e1cd88f62903" "National Wetlands Inventory" %}}
 
-[USDA - Soil Survey Manual](http://soils.usda.gov/)
+{{% resource_link "1bdc0570-a390-4e53-8187-2d4b78bedb8c" "USDA - Soil Survey Manual" %}}
 
-[USGS](http://www.usgs.gov/)
+{{% resource_link "ada3a9d1-e0c2-418a-bfc9-20bd74eee153" "USGS" %}}
 
 ### State
 
-[Mass GIS](https://www.mass.gov/info-details/massgis-data-layers)
+{{% resource_link "48029cbe-167d-4daa-8120-50e3dce7b734" "Mass GIS" %}}
 
 ### City of Cambridge
 
-Community Development Department - [Environmental & Transportation Planning](http://en.wikipedia.org/wiki/Transportation_planning)
+Community Development Department - {{% resource_link "7c24bfb6-eaad-4169-9db8-dbfb50fdd600" "Environmental & Transportation Planning" %}}
 
 ### Organizations
 
-[The Charles River Watershed Association](http://www.crwa.org/)
+{{% resource_link "f588b9b1-076e-4100-b6cd-02d7df3aeddf" "The Charles River Watershed Association" %}}
 
 ## Measurements and Conversions
 
