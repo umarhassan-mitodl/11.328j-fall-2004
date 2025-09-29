@@ -4,6 +4,8 @@ description: Instructions and guidelines for a research project.
 file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/2b79226d3119ef13706126ab285c5cab_assn3a.pdf
 file_size: 101251
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

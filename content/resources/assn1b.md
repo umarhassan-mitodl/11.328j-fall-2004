@@ -4,6 +4,8 @@ description: This resource contains instructions and guidelines for a field repo
 file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/0d1f62cbec1dc9bc7391c8c599cc46f3_assn1b.pdf
 file_size: 17379
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
