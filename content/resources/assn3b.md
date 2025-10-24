@@ -5,8 +5,6 @@ description: Instructions and guidelines for developing and presenting a mixed u
 file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/f327bad8634d926e47e746c8bf812762_assn3b.pdf
 file_size: 399865
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
